@@ -91,7 +91,7 @@ export const Repositories = styled.div`
       flex: 1;
 
       strong {
-        font-size: 24px;
+        font-size: 20px;
         color: #3d3d4d;
       }
 
