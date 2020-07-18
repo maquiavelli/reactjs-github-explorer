@@ -48,6 +48,12 @@
         "ts": "never",
         "tsx": "never"
       }
+    ],
+    "@types-eslint/explicit-function-return-type": [
+      "error",
+      {
+        "allowExpressions": true
+      }
     ]
   },
   "settings": {
